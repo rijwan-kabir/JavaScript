@@ -88,7 +88,7 @@ let arrayMul=(a,b)=>{
     return a*b;
 };
 arrayMul=5;
-console.log(arrayMul);
+console.log(arrayMul);``
 
 const printHello=()=>{
     console.log("HELO");
